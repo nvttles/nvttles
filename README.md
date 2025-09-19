@@ -11,6 +11,7 @@ Heya! I am nvttles and I love to code in my freetime :)! I also love to learn di
 
 ![Static Badge](https://img.shields.io/badge/IntellijIDEA-blue?style=flat&logo=intellijidea&logoColor=FFFF)
 ![Static Badge](https://img.shields.io/badge/Xcode-blue?style=flat&logo=Xcode&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/VSC-blue?style=flat&logo=Google-Gemini&logoColor=FFFFFF)
 
 ## Stuff I wanna learn
 
