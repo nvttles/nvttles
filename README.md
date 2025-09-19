@@ -28,6 +28,10 @@ Heya! I am nvttles and I love to code in my freetime :)! I also love to learn di
 ![Static Badge](https://img.shields.io/badge/Scala-blue?style=flat&logo=Scala&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/OCaml-blue?style=flat&logo=OCaml&logoColor=FFFFFF)
 
+## Other stuff
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nvttles" frameborder="0"></iframe>
+
 
 
 
