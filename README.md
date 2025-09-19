@@ -30,7 +30,7 @@ Heya! I am nvttles and I love to code in my freetime :)! I also love to learn di
 
 ## Other stuff
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nvttles" frameborder="0"></iframe>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvttles&layout=compact)
 
 
 
