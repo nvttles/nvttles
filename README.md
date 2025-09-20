@@ -31,4 +31,4 @@ Heya! I am nvttles and I love to code in my freetime :)! I also love to learn di
 
 ## Other stuff
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvttles&langs_count=100)](https://github.com/nvttles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sily-lily&langs_count=100)](https://github.com/nvttles/github-readme-stats)
