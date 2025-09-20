@@ -15,18 +15,19 @@ Heya! I am nvttles and I love to code in my freetime :)! I also love to learn di
 
 ## Tools I use
 
-![Static Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/SCSS-blue?style=flat&logo=Sass&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/Node.js-blue?style=flat&logo=Node.js&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/IntellijIDEA-blue?style=flat&logo=intellijidea&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/RS-blue?style=flat&logo=Roblox-Studio&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/Roact-blue?style=flat&logo=React&logoColor=FFFF)
+![Static Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/SCSS-blue?style=flat&logo=Sass&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Node.js-blue?style=flat&logo=Node.js&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/IntellijIDEA-blue?style=flat&logo=intellijidea&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/RS-blue?style=flat&logo=Roblox-Studio&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Roact-blue?style=flat&logo=React&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Darklua-blue?style=flat)
 
 ## Stuff I wanna learn
 
 ![Static Badge](https://img.shields.io/badge/Scala-blue?style=flat&logo=Scala&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/OCaml-blue?style=flat&logo=OCaml&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Elixir-blue?style=flat&logo=Elixir&logoColor=FFFFFF)
 
 ## Other stuff
 
