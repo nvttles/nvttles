@@ -31,7 +31,3 @@ Heya! I am nvttles and I love to code in my freetime :)! I also love to learn di
 ## Other stuff
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvttles&layout=compact)
-
-
-
-
