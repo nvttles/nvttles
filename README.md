@@ -1,34 +1,18 @@
-## Introduction
+# ABOUT
 Heya! I am [nvttles](https://nvttles.github.io/src/processed) and I love to code in my freetime :)! I also love to learn different languages so that I can improve and build cool things. In my future I hope to make tools for developers who would need assistance. Some of my favorite things are tennis, climbing, and coding. Bye!
-
-## My stack
-
-![Static Badge](https://img.shields.io/badge/Rust-blue?style=flat&logo=Rust&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/Web-blue?style=flat&logo=HTML5&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Luau-blue?style=flat&logo=Luau&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Lua-blue?style=flat&logo=Lua&logoColor=FFFFFF)
-
-
-![Static Badge](https://img.shields.io/badge/IntellijIDEA-blue?style=flat&logo=intellijidea&logoColor=FFFF)
-![Static Badge](https://img.shields.io/badge/Xcode-blue?style=flat&logo=Xcode&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/VSC-blue?style=flat&logo=Google-Gemini&logoColor=FFFFFF)
-
-## Tools I use
-
-![Static Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/SCSS-blue?style=flat&logo=Sass&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Node.js-blue?style=flat&logo=Node.js&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/IntellijIDEA-blue?style=flat&logo=intellijidea&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/RS-blue?style=flat&logo=Roblox-Studio&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Roact-blue?style=flat&logo=React&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Darklua-blue?style=flat)
-
-## Stuff I wanna learn
-
-![Static Badge](https://img.shields.io/badge/Scala-blue?style=flat&logo=Scala&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/OCaml-blue?style=flat&logo=OCaml&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Elixir-blue?style=flat&logo=Elixir&logoColor=FFFFFF)
-
-## Other stuff
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvttles&langs_count=100)](https://github.com/nvttles/github-readme-stats)
+# SKILLS
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu%20emacs&logoColor=white)
+# IN PROGRESS
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
