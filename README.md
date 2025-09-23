@@ -9,6 +9,8 @@ Heya! I am [nvttles](https://nvttles.github.io/src/processed) and I love to code
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu%20emacs&logoColor=white)
+![Love2D](https://img.shields.io/badge/LÖVE-11.5-ff69b4?logo=love&logoColor=white)
+![Roblox](https://img.shields.io/badge/Platform-Roblox-red?logo=roblox&logoColor=white)
 # IN PROGRESS
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
