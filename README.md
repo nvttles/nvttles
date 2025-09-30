@@ -15,7 +15,7 @@ hi, i'm nvttles. i build tools, explore math libraries, and love experimenting w
 ## github stats
 
 ### top languages
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvttles&layout=compact&theme=github_dark)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatxe&layout=compact&theme=github_dark)
 
 ### stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=nvttles&show_icons=true&theme=github_dark&count_private=true)
