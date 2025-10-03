@@ -22,8 +22,10 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 #### In Progress
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
-![Idris](https://img.shields.io/badge/Idris-BF3F5A?style=for-the-badge&logo=https://raw.githubusercontent.com/nvttles/nvttles/main/logo.svg&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 
 #### Graphs
 
