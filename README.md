@@ -23,7 +23,6 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 #### In Progress
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![OCaml](https://img.shields.io/badge/Rust-f5b28c?style=for-the-badge&logo=rust&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-9F1D20?style=for-the-badge&logo=Scala&logoColor=white)
 
