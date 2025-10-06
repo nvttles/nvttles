@@ -18,6 +18,7 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=css3&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-green?style=for-the-badge)
 
 #### In Progress
 
