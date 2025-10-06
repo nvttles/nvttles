@@ -13,8 +13,6 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 
 #### Current Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,6 +20,8 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 
 #### In Progress
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![OCaml](https://img.shields.io/badge/Rust-f5b28c?style=for-the-badge&logo=rust&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-9F1D20?style=for-the-badge&logo=Scala&logoColor=white)
