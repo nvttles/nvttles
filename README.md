@@ -20,7 +20,6 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 
 ![Rust](https://img.shields.io/badge/Rust-E3CBB3?style=for-the-badge&logo=rust&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-783687?style=for-the-badge&logo=haskell&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-9F1D20?style=for-the-badge&logo=Scala&logoColor=white)
 
 #### Graphs
 
