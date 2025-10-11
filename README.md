@@ -24,7 +24,7 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 
 #### Graphs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightersup)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightersup&layout=compact)
 
 
 
