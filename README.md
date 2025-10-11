@@ -18,10 +18,8 @@ I may say I know JavaScript and TypeScript, but I ONLY do frontend work in those
 
 #### In Progress
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![OCaml](https://img.shields.io/badge/Rust-f5b28c?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-E3CBB3?style=for-the-badge&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-783687?style=for-the-badge&logo=haskell&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-9F1D20?style=for-the-badge&logo=Scala&logoColor=white)
 
 #### Graphs
